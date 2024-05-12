@@ -53,4 +53,18 @@ html ,body{
   background-color: #fff;
 }
 
+#nav_part3 #btn-2{
+  background-color:  orangered;
+  color: #fff;
+  border: none;
+}
  
+/* > is used to target direct main children of parent here in case parent= main direct childern h1 */
+
+#main>h1{
+  color: red;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%/-50%);
+}
