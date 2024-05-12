@@ -67,3 +67,12 @@ html ,body{
   font-size:100px;
   text-transform: uppercase;
 }
+
+img{
+  height: 430px;
+  width: 370px;
+  object-fit: cover;
+  position:  absolute;
+  top: 30%;
+  left: 37%;  
+}
