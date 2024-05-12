@@ -76,4 +76,6 @@ img{
   top: 20%;
   left: 37%;  
   border-radius: 5%;
+  object-position: top;
+  
 }
