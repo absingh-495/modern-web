@@ -62,13 +62,10 @@ html ,body{
 /* > is used to target direct main children of parent here in case parent= main direct childern h1 */
 
 #main>h1{
-  width: 100%;
-  text-align: center;
+  background-color: red;
+  position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%-50%);
-  overflow: hidden;
-
+  left: 20%;  
   font-size:100px;
   text-transform: uppercase;
 }
