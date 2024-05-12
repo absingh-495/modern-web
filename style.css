@@ -77,5 +77,18 @@ img{
   left: 37%;  
   border-radius: 5%;
   object-position: top;
-  
+
+}
+
+#img-1{
+   rotate:30deg;
+}
+#img-2{
+  rotate: 20deg;
+}
+#img-3{
+  rotate: 10deg;
+}
+#img-4{
+  rotate: 0deg;
 }
