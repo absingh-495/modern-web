@@ -80,7 +80,7 @@ img{
 
 }
 
-#img-1{
+/* #img-1{
    rotate:-20deg;
 }
 #img-2{
@@ -91,17 +91,17 @@ img{
 }
 #img-4{
   rotate: 0deg;
-}
+} */
 
-/* #img-1{
-   rotate: 30deg;
+#img-1{
+   rotate: 20deg;
 }
 #img-2{
-  rotate: 20deg;
+  rotate: 10deg;
 }
 #img-3{
-  rotate: 10deg;
+  rotate: 5deg;
 }
 #img-4{
   rotate: 0deg;
-} */
+}
