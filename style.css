@@ -97,15 +97,23 @@ img{
   rotate: 0deg;
 }
 
-#btm-left{
+/* #btm-left{
   position: absolute;
   bottom: 5%;
   left: 3%;
   font-size: 15px;
-}
+} */
 
-#main>icons{
+/* #icons{
   display: flex;
-  justify-content: left;
+  justify-content:flex-end;
+  align-items: center;
+  margin-bottom: 5%;
+  margin-left: 3%;
 
+} */
+
+.parent{
+  background-color: red;
+  
 }
