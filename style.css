@@ -81,15 +81,19 @@ img{
 }
 
 #img-1{
-   rotate:-20deg;
+   rotate:4-0deg;
 }
 #img-2{
-  rotate: -10deg;
+  rotate: -30deg;
 }
 #img-3{
-  rotate: -5deg;
+  rotate: -20deg;
 }
 #img-4{
+  rotate: -10deg;
+}
+
+#img-5{
   rotate: 0deg;
 }
 
