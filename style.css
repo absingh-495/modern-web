@@ -103,3 +103,9 @@ img{
   left: 3%;
   font-size: 15px;
 }
+
+#main>icons{
+  display: flex;
+  justify-content: left;
+
+}
